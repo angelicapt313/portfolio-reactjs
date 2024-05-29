@@ -6,6 +6,10 @@
     background-color: #333;
     padding: 1rem;
   }
+
+  .navbar-brand img{
+    width: 50px;
+  }
   
   .navbar-brand a {
     color: #fff;
