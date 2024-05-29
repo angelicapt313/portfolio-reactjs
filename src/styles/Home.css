@@ -1,0 +1,14 @@
+body{
+    background-color: var(--beige);
+    height: 100vh;
+}
+
+.dev{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.developer-name{
+    color: var(--red)
+}
+
